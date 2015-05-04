@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSV2Mahout:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSV2Mahout_jar</output-path>
+    <root id="archive" name="CSV2Mahout.jar">
+      <element id="module-output" name="CSV2Mahout" />
+      <element id="extracted-dir" path="/app/mahout/mahout-hdfs-0.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.2.0/hadoop-hdfs-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/app/mahout/mahout-mr-0.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/app/mahout/mahout-math-0.10.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-annotations:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-auth:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-client:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-common:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-hdfs:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-app:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-common:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-core:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-jobclient:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-mapreduce-client-shuffle:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-yarn-api:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-yarn-client:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-yarn-common:2.2.0" />
+      <element id="library" level="project" name="Maven: org.apache.hadoop:hadoop-yarn-server-common:2.2.0" />
+    </root>
+  </artifact>
+</component>
